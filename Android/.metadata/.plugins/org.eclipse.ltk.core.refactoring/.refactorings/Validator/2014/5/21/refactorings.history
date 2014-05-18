@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;emailText&apos; in &apos;com.example.validator.R.id&apos; to &apos;textEmail&apos;&#x0D;&#x0A;- Original project: &apos;Validator&apos;&#x0D;&#x0A;- Original element: &apos;com.example.validator.R.id.emailText&apos;&#x0D;&#x0A;- Renamed element: &apos;com.example.validator.R.id.textEmail&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="true" description="Rename field &apos;emailText&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/gen&lt;com.example.validator{R.java[R[id^emailText" name="textEmail" references="true" setter="false" stamp="1400420107305" textual="false" version="1.0"/>
+</session>
